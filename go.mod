@@ -1,4 +1,4 @@
-module github.com/lukashes/synlock
+module github.com/dedefer/synlock
 
 go 1.12
 
